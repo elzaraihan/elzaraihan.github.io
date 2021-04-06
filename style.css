@@ -1,0 +1,25 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #343b4ef1;
+}
+section {
+  padding-top: 5rem;
+}
+.display-4 {
+  padding-top: 1rem;
+  color: aliceblue;
+}
+.lead {
+  font-family: "Roboto";
+  padding-top: 1rem;
+  color: rgb(255, 255, 255);
+}
+.col {
+  color: white;
+}
+.col-md-4 {
+  color: white;
+}
+.col {
+  color: black;
+}
